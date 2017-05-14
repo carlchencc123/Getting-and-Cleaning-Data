@@ -28,7 +28,7 @@ and create tiny data sets:
 
 5. Merges the features with activity labels and subject IDs. The result is
    saved as `tidyData.txt`.
-
+ 
 ### Variables
 
 - testData - table contents of `test/X_test.txt`
